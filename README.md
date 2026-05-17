@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @Medhaaarya
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning SQL and Bash Scripting
-- 💞️ I’m looking to collaborate on Scripting
-- 📫 How to reach me arya.megha15@gmail.com
+# Hi, I'm Medha Arya
+
+Network Infrastructure Engineer with 7+ years of experience in large-scale datacenter and metro network deployments across EMEA, APJ, and Americas.
+
+## Skills
+- BGP
+- OSPF
+- VLANs
+- LACP
+- Cisco / Juniper / Arista
+- Datacenter Operations
+- IPSec VPN
+- GRE Tunneling
+- Network Troubleshooting
+
+## Currently Learning
+- Python for Network Automation
+- Netmiko
+- Linux Networking
+- MPLS Fundamentals
+
+## Certifications
+- CCNA
+- CCNP
+- ITIL Foundation
+- CompTIA Server+
+
+## Connect
+- LinkedIn: [linkedin.com/in/medhaarya2025](https://www.linkedin.com/in/medhaarya2025/)
 
 <!---
 Medhaaarya/Medhaaarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
