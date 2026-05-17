@@ -1,8 +1,8 @@
-# Hi, I'm Medha Arya
+## Hi, I'm Medha Arya
 
 Network Infrastructure Engineer with 8+ years of experience in large-scale datacenter and metro network deployments across EMEA, APJ, and Americas.
 
-## Skills
+#### Skills
 - BGP
 - OSPF
 - VLANs
@@ -13,19 +13,19 @@ Network Infrastructure Engineer with 8+ years of experience in large-scale datac
 - GRE Tunneling
 - Network Troubleshooting
 
-## Currently Learning
+#### Currently Learning
 - Python for Network Automation
 - Netmiko
 - Linux Networking
 - MPLS Fundamentals
 
-## Certifications
+#### Certifications
 - CCNA
 - CCNP
 - ITIL Foundation
 - CompTIA Server+
 
-## Connect
+#### Connect
 - LinkedIn: [linkedin.com/in/medhaarya2025](https://www.linkedin.com/in/medhaarya2025/)
 
 <!---
