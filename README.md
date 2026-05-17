@@ -12,12 +12,9 @@ Network Infrastructure Engineer with 8+ years of experience in large-scale datac
 - IPSec VPN
 - GRE Tunneling
 - Network Troubleshooting
-
-#### Currently Learning
 - Python for Network Automation
 - Netmiko
 - Linux Networking
-- MPLS Fundamentals
 
 #### Certifications
 - CCNA
