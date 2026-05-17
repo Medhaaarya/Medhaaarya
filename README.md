@@ -1,6 +1,6 @@
 # Hi, I'm Medha Arya
 
-Network Infrastructure Engineer with 7+ years of experience in large-scale datacenter and metro network deployments across EMEA, APJ, and Americas.
+Network Infrastructure Engineer with 8+ years of experience in large-scale datacenter and metro network deployments across EMEA, APJ, and Americas.
 
 ## Skills
 - BGP
